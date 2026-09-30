@@ -1,0 +1,12 @@
+{
+    "challan_type": "SIMULATED",
+    "vehicle_id": 120,
+    "vehicle_number": "NOT_RECOGNIZED",
+    "violation": "WRONG_WAY",
+    "speed_kmh": null,
+    "speed_limit": 50.0,
+    "date_time": "2026-09-01T01:00:25.198112",
+    "location": "Demo Traffic Camera",
+    "evidence": "results/evidence\\ID_120_WRONG_WAY_73.jpg",
+    "status": "DEMO ONLY"
+}

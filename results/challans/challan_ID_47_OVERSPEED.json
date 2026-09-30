@@ -1,0 +1,12 @@
+{
+    "challan_type": "SIMULATED",
+    "vehicle_id": 47,
+    "vehicle_number": "NOT_RECOGNIZED",
+    "violation": "OVERSPEED",
+    "speed_kmh": 1798.2,
+    "speed_limit": 50.0,
+    "date_time": "2026-09-01T01:00:08.446834",
+    "location": "Demo Traffic Camera",
+    "evidence": "results/evidence\\ID_47_OVERSPEED_33.jpg",
+    "status": "DEMO ONLY"
+}

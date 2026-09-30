@@ -1,0 +1,12 @@
+{
+    "challan_type": "SIMULATED",
+    "vehicle_id": 194,
+    "vehicle_number": "NOT_RECOGNIZED",
+    "violation": "PEDESTRIAN_CONFLICT",
+    "speed_kmh": null,
+    "speed_limit": 50.0,
+    "date_time": "2026-09-01T01:00:41.394244",
+    "location": "Demo Traffic Camera",
+    "evidence": "results/evidence\\ID_194_PEDESTRIAN_CONFLICT_98.jpg",
+    "status": "DEMO ONLY"
+}

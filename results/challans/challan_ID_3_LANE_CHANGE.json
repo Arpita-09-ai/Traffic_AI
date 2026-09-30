@@ -1,0 +1,12 @@
+{
+    "challan_type": "SIMULATED",
+    "vehicle_id": 3,
+    "vehicle_number": "NOT_RECOGNIZED",
+    "violation": "LANE_CHANGE",
+    "speed_kmh": null,
+    "speed_limit": 50.0,
+    "date_time": "2026-09-01T01:00:30.775539",
+    "location": "Demo Traffic Camera",
+    "evidence": "results/evidence\\ID_3_LANE_CHANGE_78.jpg",
+    "status": "DEMO ONLY"
+}
